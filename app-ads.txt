@@ -71,3 +71,5 @@ video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 telaria.com, rwd19-3281462, RESELLER, 1a4e959a1b50034a
 
 tremorhub.com, rwd19-3281462, RESELLER, 1a4e959a1b50034a
+
+google.com, pub-3152548995559304, RESELLER
